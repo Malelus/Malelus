@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Mateusz
 #### I am a 20-year-old programmer.
 I started my adventure with web development 2 years ago, in technical school on the profile of IT technician.
-I graduated from education with the title of IT technician.
+I graduated from school with the title of IT technician.
 
 Over time, I realized that creating websites gives me fun, so while still in school I taught myself at home, developed the assigned projects and also created my own.
 
