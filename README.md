@@ -11,7 +11,7 @@ Skills: React / Js / Html / Css / Scss
 
 <hr/>
 
-[<h2 style="border-bottom: 'none'">Portfolio</h2>](https://malelus.github.io/Portfolio/)
+[<h2 style="border-bottom: 'none'">Portfolio</h2>](https://malelus-portfolio.netlify.app/)
 
 <hr/>
 
