@@ -1,3 +1,7 @@
+[<h2 style="border-bottom: 'none'">Portfolio</h2>](https://malelus-portfolio.netlify.app/)
+
+<hr/>
+
 ### Hi there 👋, my name is Mateusz
 #### I am a 20-year-old programmer.
 I started my adventure with web development 2 years ago, in technical school on the profile of IT technician.
@@ -8,10 +12,6 @@ Over time, I realized that creating websites gives me fun, so while still in sch
 <hr/>
 
 Skills: React / Js / Html / Css / Scss
-
-<hr/>
-
-[<h2 style="border-bottom: 'none'">Portfolio</h2>](https://malelus-portfolio.netlify.app/)
 
 <hr/>
 
