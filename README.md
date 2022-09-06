@@ -1,4 +1,4 @@
-[<h2 style="border: none">Portfolio</h2>](https://malelus-portfolio.netlify.app/)
+[<h2>Portfolio</h2>](https://malelus-portfolio.netlify.app/)
 
 ---
 
