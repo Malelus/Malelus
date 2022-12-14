@@ -21,8 +21,6 @@ After completing the current course, I intend to start a course on Udemy platfor
 
 ---
 
-### [Certificates](https://github.mndev.eu/Certificates)
-
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
