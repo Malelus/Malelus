@@ -21,7 +21,7 @@ After completing the current course, I intend to start a course on Udemy platfor
 
 ---
 
-#### [Certificates](https://github.mndev.eu/Certificates)
+### [Certificates](https://github.mndev.eu/Certificates)
 
 ## Tech Stack
 
