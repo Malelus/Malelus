@@ -17,8 +17,6 @@ I have completed the [Scrimba](https://scrimba.com) [Front-End Developer Career 
 
 Additionally, I intend to further my training in UI/UX and Backend (Node.js) in the near future.
 
-After completing the current course, I intend to start a course on Udemy platform.
-
 ---
 
 ![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,html,css,sass,git)
