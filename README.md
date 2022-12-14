@@ -23,19 +23,10 @@ After completing the current course, I intend to start a course on Udemy platfor
 
 ## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%23DD0031.svg?style=for-the-badge&logo=react&logoColor=61dafb&color=20232a)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![My skills](https://skillicons.dev/icons?i=ts,js,react,html,css,sass,git)
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.mndev.eu)
-&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://linkedin.mndev.eu)
-&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@matin1608)  
-
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.mndev.eu)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.mndev.eu)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@matin1608)
