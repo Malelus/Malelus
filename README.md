@@ -3,13 +3,25 @@
 ---
 
 ### Hi there 👋, my name is Mateusz
-#### I am a 20-year-old programmer.
-I started my adventure with web development 2 years ago, in technical school on the profile of IT technician.
-I graduated from school with the title of IT technician.
 
-Over time, I realized that creating websites gives me fun, so while still in school I taught myself at home, developed the assigned projects and also created my own.
+#### 
+
+#### I am a 20-year-old programmer.
+I am this year's high-school graduate, graduated from high school with the title of IT Technician, I have been dealing with Web Devlopment for 2 years now. I develop my skills largely on my own, I use various sources, including YouTube, 
+Scrimba platform and minor Crash Course.
+
+I am looking for my first job as a Front-End Developer.
+I have completed several projects in "pure" JavaScript as well as React with TypeScript support.
+
+I have completed the Scrimba Front-End Developer Career Path, Advanced React, JavaScript deep dive and React Hooks Simplified courses.
+
+Additionally, I intend to further my training in UI/UX and Backend (Node.js) in the near future.
+
+After completing the current course, I intend to start a course on Udemy platform.
 
 ---
+
+#### [Certificates](https://github.mndev.eu/Certificates)
 
 ## Tech Stack
 
