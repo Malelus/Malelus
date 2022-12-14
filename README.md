@@ -1,4 +1,4 @@
-#### [🧑‍🎨 Portfolio](https://mndev.eu) | [📝🏅 Certificates](https://github.mndev.eu/Certificates)
+#### [🧑‍🎨 Portfolio](https://mndev.eu)  |  [📝🏅 Certificates](https://github.mndev.eu/Certificates)
 
 ---
 
