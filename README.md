@@ -13,7 +13,7 @@ Scrimba platform and minor Crash Course.
 I am looking for my first job as a Front-End Developer.
 I have completed several projects in "pure" JavaScript as well as React with TypeScript support.
 
-I have completed the Scrimba [Front-End Developer Career Path](https://github.mndev.eu/Certificates/blob/main/Scrimba/The%20Frontend%20Developer%20Career%20Path/CERTIFICATE%20OF%20COMPLETION%20-%20The%20Frontend%20Developer%20Career%20Path.pdf), [Advanced React](https://github.com/Malelus/Certificates/blob/main/Scrimba/Advanced%20React/CERTIFICATE%20OF%20COMPLETION%20-%20Advanced%20React.pdf), [JavaScript deep dive](https://github.com/Malelus/Certificates/blob/main/Scrimba/JavaScript%20deep%20dive/CERTIFICATE%20OF%20COMPLETION%20-%20JavaScript%20deep%20dive.pdf) and [React Hooks Simplified](https://github.mndev.eu/Certificates/blob/main/Web%20Dev%20Simplified/React%20Hooks%20Simplified/React%20Hooks%20Simplified-certificate.pdf) course.
+I have completed the Scrimba [Front-End Developer Career Path](https://github.mndev.eu/Certificates/blob/main/Scrimba/The%20Frontend%20Developer%20Career%20Path), [Advanced React](https://github.com/Malelus/Certificates/blob/main/Scrimba/Advanced%20React), [JavaScript deep dive](https://github.com/Malelus/Certificates/blob/main/Scrimba/JavaScript%20deep%20dive) and [React Hooks Simplified](https://github.mndev.eu/Certificates/blob/main/Web%20Dev%20Simplified/React%20Hooks%20Simplified) course.
 
 Additionally, I intend to further my training in UI/UX and Backend (Node.js) in the near future.
 
