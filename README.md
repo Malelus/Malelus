@@ -21,9 +21,7 @@ After completing the current course, I intend to start a course on Udemy platfor
 
 ---
 
-## Tech Stack
-
-![My skills](https://skillicons.dev/icons?i=ts,js,react,html,css,sass,git)
+![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,html,css,sass,git)
 
 ---
 
