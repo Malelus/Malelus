@@ -6,7 +6,7 @@
 
 ####
 
-#### I am a 20 year old frontend developer.
+#### I am a 20 year old front-end developer.
 
 I am this year's high-school graduate, graduated from high school with the title of IT Technician, I have been dealing with Web Devlopment for 2 years now. I develop my skills largely on my own, I use various sources, including YouTube,
 Scrimba platform and minor Crash Courses.
