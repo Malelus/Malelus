@@ -23,6 +23,12 @@ Additionally, I intend to further my training in UI/UX and Backend (Node.js) in 
 
 ---
 
+In addition, I had the opportunity to work with:
+
+![Other](https://skillicons.dev/icons?i=mysql,php)
+
+---
+
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.mndev.eu)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.mndev.eu)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@matin1608)
